@@ -1,4 +1,4 @@
-### Hi there! I'm Varun! 👋
+### Hey there! I'm Varun! 👋
 
 ![coding](https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif)
 
@@ -14,12 +14,15 @@ I'm always excited to collaborate on new projects or discuss web development ide
 Let's build something amazing together! 😄
 
 ## Currently working on:
+I see that you have come here to see what elegant, exquisite and robust code looks like. Just kidding, don't look through some of my repos. 
+I haven't refactored old code and I do not have enough money to pay for any trauma you may endure from looking at my haphazard code or how I deal with React Forms ;)
 
 1. Bloggy - (final touches + deployment) - a full stack MERN blog application where users will be able to create accounts and create + edit blog articles.
 2. Gasbnb - (development) - a full stack MERN clone of airbnb. This will let users create bookings that they can rent out as well as see other people's offerings.
 3. Social-media app - (concept) - a full stack clone of facebook where users can create a profile and add their friends to their social network.
 
-![back-to-work](https://i.gifer.com/5GJg.gif)
+![development](https://tenor.com/view/laptop-gif-26065249.gif)
+
 <!--
 **DustyDogCodex/DustyDogCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
