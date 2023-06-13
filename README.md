@@ -10,8 +10,11 @@ I'm a passionate Full Stack Developer. I love building innovative and user-frien
 - Databases: MongoDB
 
 ## Let's Connect
+
 I'm always excited to collaborate on new projects or discuss web development ideas. Feel free to reach me at any of my social links listed in my bio!
 Let's build something amazing together! 😄
+
+If you would like to see some projects I have created, check out my <a href='https://dustydogcodex.github.io/personal-portfolio/'>portfolio!</a> **Currently in the process of revamping it using tailwindcss so some things might not work as expected**
 
 ## Currently working on:
 WOW isn't it blowing your mind to see elegant, exquisite and robust code in every repo? Just kidding, don't go snooping through some of my repos. 
