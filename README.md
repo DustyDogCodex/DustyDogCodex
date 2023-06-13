@@ -21,7 +21,7 @@ I haven't refactored old code and I do not have enough money to pay for any trau
 2. Gasbnb - (development) - a full stack MERN clone of airbnb. This will let users create bookings that they can rent out as well as see other people's offerings.
 3. Social-media app - (concept) - a full stack clone of facebook where users can create a profile and add their friends to their social network.
 
-![development](https://tenor.com/view/laptop-gif-26065249.gif)
+![development](https://tenor.com/view/coding-programming-pink-panther-when-you-delete-a-block-of-code-that-you-though-was-useless-gif-17338075.gif)
 
 <!--
 **DustyDogCodex/DustyDogCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
