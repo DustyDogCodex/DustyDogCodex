@@ -14,8 +14,8 @@ I'm always excited to collaborate on new projects or discuss web development ide
 Let's build something amazing together! 😄
 
 ## Currently working on:
-I see that you have come here to see what elegant, exquisite and robust code looks like. Just kidding, don't look through some of my repos. 
-I haven't refactored old code and I do not have enough money to pay for any trauma you may endure from looking at my haphazard code or how I deal with React Forms ;)
+WOW isn't it blowing your mind to see elegant, exquisite and robust code in every repo? Just kidding, don't go snooping through some of my repos. 
+I haven't refactored old code and I do not have enough money to pay for any trauma you may endure from looking at haphazard code or how I deal with React Forms ;)
 
 1. Bloggy - (final touches + deployment) - a full stack MERN blog application where users will be able to create accounts and create + edit blog articles.
 2. Gasbnb - (development) - a full stack MERN clone of airbnb. This will let users create bookings that they can rent out as well as see other people's offerings.
