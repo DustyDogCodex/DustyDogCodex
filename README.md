@@ -18,10 +18,13 @@ WOW isn't it blowing your mind to see elegant, exquisite and robust code in ever
 I haven't refactored old code and I do not have enough money to pay for any trauma you may endure from looking at haphazard code or how I deal with React Forms ;)
 
 ### Bloggy 
+  - repo: https://github.com/DustyDogCodex/bloggy
   - (final touches + deployment) - a full stack MERN blog application where users will be able to create accounts and create + edit blog articles.
 ### Gasbnb 
+  - repo: https://github.com/DustyDogCodex/AirBnB-Clone
   - (development) - a full stack MERN clone of airbnb. This will let users create bookings that they can rent out as well as see other people's offerings.
 ### Social-media app 
+  -repo: N/A at the moment
   - (concept) - a full stack clone of facebook where users can create a profile and add their friends to their social network.
 
 ![development](https://tenor.com/view/coding-programming-pink-panther-when-you-delete-a-block-of-code-that-you-though-was-useless-gif-17338075.gif)
