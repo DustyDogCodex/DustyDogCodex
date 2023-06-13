@@ -1,6 +1,6 @@
 ### Hi there! I'm Varun! 👋
 
-![coding](https://i.gifer.com/758A.gif)
+![coding](https://tenor.com/view/coding-programming-pink-panther-when-you-delete-a-block-of-code-that-you-though-was-useless-gif-17338075.gif)
 
 ## About Me
 I'm a passionate Full Stack Developer. I love building innovative and user-friendly web applications. My technical expertise includes:
