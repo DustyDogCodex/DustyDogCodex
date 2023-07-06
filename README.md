@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Varun 👋</h1> 
 
-<img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif" alt="gif of programmer busy at work" width="100" height="100" align="center"/>
+<div align="center">
+  <img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif" alt="gif of programmer busy at work" width="100" height="100" />  
+</div>
 
 ## About Me
 I'm a passionate Full Stack Developer. I love building innovative and user-friendly web applications. My technical expertise includes:
