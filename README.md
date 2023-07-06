@@ -1,8 +1,6 @@
 # Hey there! I'm Varun! 👋
 
-![coding](https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif)
-
-<img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif" width="40" height="40" />
+<img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif" width="100" height="100" />
 
 ## About Me
 I'm a passionate Full Stack Developer. I love building innovative and user-friendly web applications. My technical expertise includes:
