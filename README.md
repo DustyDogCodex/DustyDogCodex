@@ -1,4 +1,4 @@
-# <h1 style="text-align: center">Hi! I'm Varun 👋</h1> 
+<h1 style="text-align: center">Hi! I'm Varun 👋</h1> 
 
 <img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif" width="100" height="100" />
 
