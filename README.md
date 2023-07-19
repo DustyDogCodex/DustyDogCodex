@@ -113,17 +113,6 @@
 
 </table>
 
-
-### Bloggy 
-  - repo: https://github.com/DustyDogCodex/bloggy
-  - (final touches + deployment) - a full stack MERN blog application where users will be able to create accounts and create + edit blog articles.
-### Gasbnb 
-  - repo: https://github.com/DustyDogCodex/AirBnB-Clone
-  - (final touches + deployment) - a full stack MERN clone of Airbnb. This will let users create bookings that they can rent out as well as see other people's offerings.
-### Dost
-  - repo: https://github.com/DustyDogCodex/Dost
-  - (in development) - a full stack clone of Facebook where users can create a profile and add their friends to their social network.
-
 <h3 align="center">🌱 I’m currently also learning Typescript and Next.JS!</h3>
 
 <p align="center">Thanks for visiting my GitHub Profile! I look forward to hearing from you soon! In the meantime, here's a VERY relatable and funny gif as your reward for looking through my profile :) Have a great rest of your day!</p>
