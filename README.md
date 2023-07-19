@@ -38,7 +38,7 @@
     <td width="50%" valign="top">
         <h3 align="center">Gasbnb</h3>
         <br />
-        <a href=""><img src=""/></a> 
+        <!-- <a href=""><img src=""/></a> --> 
         <br />
         <p align="center">
             <a href=" https://github.com/DustyDogCodex/bloggy" target="_blank">
@@ -56,7 +56,7 @@
     <td width="50%" valign="top">
         <h3 align="center">Dost</h3>
         <br />
-        <a href=""><img src="" /></a> 
+        <!-- <a href=""><img src="" /></a> --> 
         <br />
         <p align="center">
             <a href="https://github.com/DustyDogCodex/Dost" target="_blank">
@@ -68,29 +68,31 @@
         </p>
         <p>
             <strong>React, Express/NodeJs, MongoDb, TailwindCSS, PassportJS </strong> 
-            - Fully functional eCommerce store, with Stripe integration, easily customizable and easy to use, with individual product pages including add to cart/buy-now functionality. 
-        </p>
+            - (working on final touches and development) A full stack clone of Facebook where users can create a profile, create posts with text or images and make/add friends to their social network.
     </td>
 </tr>
   
-  <tr>
+<tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travel Journal</h3>
+        <h3 align="center">Bloggy</h3>
         <br />
-      <a href="https://tb-travel-journal.netlify.app/"><img src="React-travel-journal.png" /></a> 
+        <!-- <a href=""><img src=""/></a>  -->
         <br />
-    <p align="center">
-      <a href="https://github.com/Mussina123/React-travel-journal" target="_blank">
-       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="https://tb-travel-journal.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-     </p>
-            <p><strong>React, HTML5, CSS3, Vanilla Javascript</strong> - Travel Journal built using React with dynamic rendering!</p>
+        <p align="center">
+            <a href="https://github.com/DustyDogCodex/bloggy" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>  
+            <a href="" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p>
+            <strong>React, Express/NodeJS, MongoDb, PassportJS, React-Bootstrap, Bootstrap</strong> 
+            - (currently in final touches + deployment) A full stack MERN blog application where users can create accounts to create their own blog posts as well as read posts created by other users.
+        </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Picture Of The Day!</h3>
+      <h3 align="center">Portfolio</h3>
         <br />
       <a href="https://nasaimageoftheday.netlify.app/"><img src="NASA.png" height="260px" /></a> 
         <br />
@@ -105,7 +107,6 @@
             <p><strong>HTML5, CSS3, RESTful API & Javascript</strong> - NASA Image of the day, beautifully rendered with background stars animation! </p>
      </td>
     </tr>
-  
 </table>
 
 
