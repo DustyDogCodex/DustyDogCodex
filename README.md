@@ -92,21 +92,25 @@
         </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+        <h3 align="center">Portfolio</h3>
         <br />
-      <a href="https://nasaimageoftheday.netlify.app/"><img src="NASA.png" height="260px" /></a> 
+        <!-- <a href=""><img src="" height="260px" /></a>  -->
         <br />
-    <p align="center">
-      <a href="https://github.com/Mussina123/NASA-API-" target="_blank">
-       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="https://nasaimageoftheday.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-     </p>
-            <p><strong>HTML5, CSS3, RESTful API & Javascript</strong> - NASA Image of the day, beautifully rendered with background stars animation! </p>
-     </td>
-    </tr>
+        <p align="center">
+            <a href="https://github.com/DustyDogCodex/personal-portfolio" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>  
+            <a href="" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p>
+            <strong>React, TailwindCSS, Framer-motion</strong>
+            -A fully responsive and beautiful portfolio website designed to showcase my Portfolio with projects I have worked on as well as letting customers contact me directly through the website. 
+        </p>
+    </td>
+</tr>
+
 </table>
 
 
