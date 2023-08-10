@@ -36,6 +36,45 @@
   
 <tr>
     <td width="50%" valign="top">
+        <h3 align="center">Dost</h3>
+        <br />
+        <a href="https://dost-production.up.railway.app/">
+            <img 
+                src="./Screenshots/Dost-screenshot.jpg" 
+                alt='Dost Screenshot'    
+            />
+        </a> 
+        <br />
+        <p align="center">
+            <!-- link to github repo -->
+            <a 
+                href="https://github.com/DustyDogCodex/Dost" 
+                target="_blank"
+            >
+                <!-- logo for github repo -->
+                <img 
+                    src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
+                />
+            </a>  
+            <!-- link to live website -->
+            <a 
+                href="https://dost-production.up.railway.app/" 
+                target="_blank"
+            >
+                <!-- logo for website -->
+                <img 
+                    src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
+                />
+            </a>
+        </p>
+        <p align="center">
+            <strong>React, Express/NodeJs, MongoDb, TailwindCSS, PassportJS </strong> 
+        </p>
+        <p align='center'>
+            A full stack clone of Facebook where users can create a profile, create posts with text and images and make/add friends to their social network.
+        </p>
+    </td>
+    <td width="50%" valign="top">
         <h3 align="center">Gasbnb</h3>
         <br />
         <!-- <a href=""><img src=""/></a> --> 
@@ -48,27 +87,12 @@
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p>
+        <p align='center'>
             <strong>React, Node/Express, MongoDB, PassportJS, TailwindCSS </strong> 
-            -(currently working on final touches + deployment) - a responsive full stack MERN clone of Airbnb. Users can create bookings that they can rent out as well as see other people's offerings to reserve those.
         </p>
-    </td>
-    <td width="50%" valign="top">
-        <h3 align="center">Dost</h3>
-        <br />
-        <!-- <a href=""><img src="" /></a> --> 
-        <br />
-        <p align="center">
-            <a href="https://github.com/DustyDogCodex/Dost" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://ecomm-mussina123.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-            </a>
+        <p align='center'>
+            (currently working on final touches + deployment) - a responsive full stack MERN clone of Airbnb. Users can create bookings that they can rent out as well as see other people's offerings to reserve those.
         </p>
-        <p>
-            <strong>React, Express/NodeJs, MongoDb, TailwindCSS, PassportJS </strong> 
-            - (working on final touches and development) A full stack clone of Facebook where users can create a profile, create posts with text or images and make/add friends to their social network.
     </td>
 </tr>
   
@@ -86,27 +110,50 @@
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p>
+        <p align='center'>
             <strong>React, Express/NodeJS, MongoDb, PassportJS, React-Bootstrap, Bootstrap</strong> 
-            - (currently in final touches + deployment) A full stack MERN blog application where users can create accounts to create their own blog posts as well as read posts created by other users.
+        </p>
+        <p align='center'>
+            (currently in final touches + deployment) A full stack MERN blog application where users can create accounts to create their own blog posts as well as read posts created by other users.
         </p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">Portfolio</h3>
+        <h3 align="center">My Portfolio</h3>
         <br />
-        <!-- <a href=""><img src="" height="260px" /></a>  -->
+        <a 
+            href="https://dustydogcodex.github.io/personal-portfolio/"
+        >
+            <img 
+                src="./Screenshots/portfolio-screenshot.jpg" 
+                height="260px" 
+            />
+        </a> 
         <br />
         <p align="center">
-            <a href="https://github.com/DustyDogCodex/personal-portfolio" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <!-- link to github repo -->
+            <a 
+                href="https://github.com/DustyDogCodex/personal-portfolio" 
+                target="_blank"
+            >
+                <img 
+                    src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
+                />
+            </a> 
+            <!-- link to live demo website --> 
+            <a 
+                href="https://dustydogcodex.github.io/personal-portfolio/" 
+                target="_blank"
+            >
+                <img 
+                    src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
+                />
             </a>
         </p>
-        <p>
-            <strong>React, TailwindCSS, Framer-motion</strong>
-            -A fully responsive and beautiful portfolio website designed to showcase my Portfolio with projects I have worked on as well as letting customers contact me directly through the website. 
+        <p align='center'>
+            <strong>React, TailwindCSS, Framer-Motion</strong> 
+        </p>
+        <p align='center'>
+            A fully responsive and beautiful portfolio website designed to showcase my Portfolio with projects I have created while also letting customers contact me directly through the website.
         </p>
     </td>
 </tr>
@@ -118,5 +165,10 @@
 <p align="center">Thanks for visiting my GitHub Profile! I look forward to hearing from you soon! In the meantime, here's a VERY relatable and funny gif as your reward for looking through my profile :) Have a great rest of your day!</p>
 
 <div align="center">
-  <img src="https://tenor.com/view/coding-programming-pink-panther-when-you-delete-a-block-of-code-that-you-though-was-useless-gif-17338075.gif" alt="relevant programming meme that my mom says is VERY funny" width="180" height="180" />  
+    <img 
+        src="https://tenor.com/view/coding-programming-pink-panther-when-you-delete-a-block-of-code-that-you-though-was-useless-gif-17338075.gif" 
+        alt="relevant programming meme that my mom says is VERY funny" 
+        width="180" 
+        height="180" 
+    />  
 </div>
