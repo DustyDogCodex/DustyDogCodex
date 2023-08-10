@@ -120,14 +120,17 @@
     <td width="50%" valign="top">
         <h3 align="center">My Portfolio</h3>
         <br />
+        <div align="center">
         <a 
             href="https://dustydogcodex.github.io/personal-portfolio/"
+            align='center'
         >
             <img 
-                src="./Screenshots/portfolio-screenshot.jpg" 
+                src="./Screenshots/my-portfolio.png" 
                 height="260px" 
             />
-        </a> 
+        </a>
+        </div> 
         <br />
         <p align="center">
             <!-- link to github repo -->
