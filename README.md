@@ -38,12 +38,15 @@
     <td width="50%" valign="top">
         <h3 align="center">Dost</h3>
         <br />
+        <div align='center'>
         <a href="https://dost-production.up.railway.app/">
             <img 
-                src="./Screenshots/Dost-screenshot.jpg" 
-                alt='Dost Screenshot'    
+                src="./Screenshots/dost.png" 
+                alt='Dost Screenshot' 
+                height='300px'   
             />
-        </a> 
+        </a>
+        </div> 
         <br />
         <p align="center">
             <!-- link to github repo -->
@@ -100,13 +103,22 @@
     <td width="50%" valign="top">
         <h3 align="center">Bloggy</h3>
         <br />
-        <!-- <a href=""><img src=""/></a>  -->
+        <div align='center'>
+        <a href="https://bloggy-production.up.railway.app/">
+            <img 
+                src="./Screenshots/bloggy.png"
+                height='300px'    
+            />
+        </a>
+        </div> 
         <br />
         <p align="center">
+            <!-- link to github repo -->
             <a href="https://github.com/DustyDogCodex/bloggy" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>  
-            <a href="" target="_blank">
+            <!-- link to live website -->
+            <a href="https://bloggy-production.up.railway.app/" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
         </p>
@@ -114,7 +126,7 @@
             <strong>React, Express/NodeJS, MongoDb, PassportJS, React-Bootstrap, Bootstrap</strong> 
         </p>
         <p align='center'>
-            (currently in final touches + deployment) A full stack MERN blog application where users can create accounts to create their own blog posts as well as read posts created by other users.
+            A full stack MERN blog application where users can read posts created by others and create accounts to write their own blog posts.
         </p>
     </td>
     <td width="50%" valign="top">
@@ -127,7 +139,7 @@
         >
             <img 
                 src="./Screenshots/my-portfolio.png" 
-                height="260px" 
+                height="300px" 
             />
         </a>
         </div> 
@@ -165,7 +177,7 @@
 
 <h3 align="center">🌱 I’m currently also learning Typescript and Next.JS!</h3>
 
-<p align="center">Thanks for visiting my GitHub Profile! I look forward to hearing from you soon! In the meantime, here's a VERY relatable and funny gif as your reward for looking through my profile :) Have a great rest of your day!</p>
+<p align="center">Thanks for visiting my GitHub Profile! I look forward to hearing from you soon! In the meantime, here's a VERY relatable and funny gif :) Have a great rest of your day!</p>
 
 <div align="center">
     <img 
