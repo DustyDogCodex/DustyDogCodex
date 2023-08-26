@@ -21,7 +21,7 @@
 <h1 align="center">Let's Connect! &#129309;</h1>
 
 <p align="center"> 
-    I'm always excited to collaborate on new projects or discuss web development ideas. Feel free to reach me at any of the social links listed in my bio! If you would like to see some projects I have created, check out my <a href='https://dustydogcodex.github.io/personal-portfolio/'>✨portfolio!✨</a> **Currently reworking my portfolio using Tailwindcss so some things might not work as expected**
+    I'm always excited to collaborate on new projects or discuss web development ideas. Feel free to reach me at any of the social links listed in my bio! If you would like to see some projects I have created, check out my <a href='https://dustydogcodex.github.io/personal-portfolio/'>✨portfolio!✨</a>
 </p>
 
 <p align="center">Let's build something amazing together! 😄 </p>
@@ -80,13 +80,20 @@
     <td width="50%" valign="top">
         <h3 align="center">Gasbnb</h3>
         <br />
-        <!-- <a href=""><img src=""/></a> --> 
+        <div align='center'>
+            <a href="https://gasbnb-production.up.railway.app/">
+                <img 
+                    src="./Screenshots/gasbnb.png"
+                    height='300px'
+                />
+            </a>
+        <div> 
         <br />
         <p align="center">
-            <a href=" https://github.com/DustyDogCodex/bloggy" target="_blank">
+            <a href="https://github.com/DustyDogCodex/Gasbnb" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>  
-            <a href="" target="_blank">
+            <a href="https://gasbnb-production.up.railway.app/" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
         </p>
@@ -94,7 +101,7 @@
             <strong>React, Node/Express, MongoDB, PassportJS, TailwindCSS </strong> 
         </p>
         <p align='center'>
-            (currently working on final touches + deployment) - a responsive full stack MERN clone of Airbnb. Users can create bookings that they can rent out as well as see other people's offerings to reserve those.
+            A responsive full stack MERN clone of Airbnb. Users can see and reserve listings created by other users. Users can also create an account to create, edit and delete listings of their own as well.
         </p>
     </td>
 </tr>
