@@ -182,8 +182,6 @@
 
 </table>
 
-<h3 align="center">🌱 I’m currently also learning Typescript and Next.JS!</h3>
-
 <p align="center">Thanks for visiting my GitHub Profile! I look forward to hearing from you soon! In the meantime, here's a VERY relatable and funny gif :) Have a great rest of your day!</p>
 
 <div align="center">
