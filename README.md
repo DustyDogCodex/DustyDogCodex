@@ -6,6 +6,7 @@
 
 <h3 align="center">My Tech Stack</h3>
 <p align='center'>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/react"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/express"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/>
