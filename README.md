@@ -1,7 +1,7 @@
 # <h1 align="center">Hi! I'm Varun 👋</h1> 
 
 <p align="center">
-    I'm a passionate full stack engineer specializing in the MERN (MongoDB, Express.js, React, Node.js) tech stack. With a strong foundation in both front-end and back-end development, I thrive in creating robust and efficient web applications that meet the needs of modern businesses. Whether it's building intuitive user interfaces using React or designing scalable APIs with Express, I strive for excellence in every line of code I write. With a keen eye for detail and a passion for clean and maintainable code, I take pride in crafting elegant solutions that empower businesses to thrive in the digital landscape.
+    I'm a passionate Full Stack Engineer specializing in the MERN (MongoDB, Express.js, React, Node.js) tech stack. With a strong foundation in both front-end and back-end development, I thrive in creating robust and efficient web applications that meet the needs of modern businesses. Whether it's building intuitive user interfaces using React or designing scalable APIs with Express, I strive for excellence in every line of code I write. With a keen eye for detail and a passion for clean and maintainable code, I take pride in crafting elegant solutions that empower businesses to thrive in the digital landscape.
 <p>
 
 <h3 align="center">My Tech Stack</h3>
@@ -30,7 +30,7 @@
 <h1 align="center">Recent Projects &#128221;</h1>
 
 <p align="center"> 
-   WOW isn't it blowing your mind to see elegant, robust and ✨exquisite✨ code in every repo? Just kidding, don't go snooping through some of my repos. I haven't refactored old code and I do not have enough money to pay for any trauma you may endure from looking at haphazard code or how I deal with React Forms ;)
+   WOW isn't it blowing your mind to see elegant, robust, and ✨exquisite✨ code in every repo? Just kidding, don't go snooping through some of my repos. I haven't refactored old code and I do not have enough money to pay for any trauma you may endure from looking at haphazard code or how I deal with React Forms ;)
 </p>
 
 <table bordercolor="#66b2b2" >
