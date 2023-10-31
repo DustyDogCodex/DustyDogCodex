@@ -37,6 +37,48 @@
   
 <tr>
     <td width="50%" valign="top">
+        <h3 align="center">White Lotus</h3>
+        <br />
+        <div align="center">
+        <a 
+            href="https://github.com/DustyDogCodex/white-lotus"
+            align='center'
+        >
+            <img 
+                src="./Screenshots/white-lotus.png" 
+                height="300px" 
+            />
+        </a>
+        </div> 
+        <br />
+        <p align="center">
+            <!-- link to github repo -->
+            <a 
+                href="https://github.com/DustyDogCodex/white-lotus" 
+                target="_blank"
+            >
+                <img 
+                    src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
+                />
+            </a> 
+            <!-- link to live demo website --> 
+            <a 
+                href="https://dustydogcodex.github.io/white-lotus/" 
+                target="_blank"
+            >
+                <img 
+                    src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
+                />
+            </a>
+        </p>
+        <p align='center'>
+            <strong>Typescript, React, TailwindCSS, Framer-Motion</strong> 
+        </p>
+        <p align='center'>
+            A fully responsive and beautiful website designed for a luxury resort. Using smooth animations and a sleek design, the aim of this project was to recreate the serenity and peace one might experience at an luxurious island resort.
+        </p>
+    </td>
+    <td width="50%" valign="top">
         <h3 align="center">Dost</h3>
         <br />
         <div align='center'>
@@ -75,34 +117,7 @@
             <strong>React, Express/NodeJs, MongoDb, TailwindCSS, PassportJS </strong> 
         </p>
         <p align='center'>
-            A full stack clone of Facebook where users can create a profile, create posts with text and images and make/add friends to their social network.
-        </p>
-    </td>
-    <td width="50%" valign="top">
-        <h3 align="center">Gasbnb</h3>
-        <br />
-        <div align='center'>
-            <a href="https://gasbnb-production.up.railway.app/">
-                <img 
-                    src="./Screenshots/gasbnb.png"
-                    height='300px'
-                />
-            </a>
-        <div> 
-        <br />
-        <p align="center">
-            <a href="https://github.com/DustyDogCodex/Gasbnb" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://gasbnb-production.up.railway.app/" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-            </a>
-        </p>
-        <p align='center'>
-            <strong>React, Node/Express, MongoDB, PassportJS, TailwindCSS </strong> 
-        </p>
-        <p align='center'>
-            A responsive full stack MERN clone of Airbnb. Users can see and reserve listings created by other users. Users can also create an account to create, edit and delete listings of their own as well.
+            A full stack clone of Facebook where users can create a profile, create posts with text/images and add friends to their social network.
         </p>
     </td>
 </tr>
@@ -138,45 +153,30 @@
         </p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">My Portfolio</h3>
+        <h3 align="center">Gasbnb</h3>
         <br />
-        <div align="center">
-        <a 
-            href="https://dustydogcodex.github.io/personal-portfolio/"
-            align='center'
-        >
-            <img 
-                src="./Screenshots/my-portfolio.png" 
-                height="300px" 
-            />
-        </a>
-        </div> 
+        <div align='center'>
+            <a href="https://gasbnb-production.up.railway.app/">
+                <img 
+                    src="./Screenshots/gasbnb.png"
+                    height='300px'
+                />
+            </a>
+        <div> 
         <br />
         <p align="center">
-            <!-- link to github repo -->
-            <a 
-                href="https://github.com/DustyDogCodex/personal-portfolio" 
-                target="_blank"
-            >
-                <img 
-                    src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
-                />
-            </a> 
-            <!-- link to live demo website --> 
-            <a 
-                href="https://dustydogcodex.github.io/personal-portfolio/" 
-                target="_blank"
-            >
-                <img 
-                    src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
-                />
+            <a href="https://github.com/DustyDogCodex/Gasbnb" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>  
+            <a href="https://gasbnb-production.up.railway.app/" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
         </p>
         <p align='center'>
-            <strong>React, TailwindCSS, Framer-Motion</strong> 
+            <strong>React, Node/Express, MongoDB, PassportJS, TailwindCSS </strong> 
         </p>
         <p align='center'>
-            A fully responsive and beautiful portfolio website designed to showcase my Portfolio with projects I have created while also letting customers contact me directly through the website.
+            A responsive full stack MERN clone of Airbnb. Users can see and reserve listings created by other users. Users can also create an account to create, edit and delete listings of their own as well.
         </p>
     </td>
 </tr>
